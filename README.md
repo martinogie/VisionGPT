@@ -1,1 +1,3 @@
 # VisionGPT
+
+This vision GPT utilizes a GPT-2.0 pre-trained model and vision transformer (ViT). This Large Multimodal Model (LMM) image captioning with Vision Transformer (ViT) and GPT-2.0 combines two models to generate descriptive captions for images. ViT extracts image features using self-attention mechanisms, capturing both spatial and semantic information. These features are then fed into GPT-2.0, a large language model trained on vast text data, to generate captions. By leveraging ViT for visual understanding and GPT-2.0 for language generation, the system produces contextually relevant and informative captions, bridging the gap between visual and textual modalities.
